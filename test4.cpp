@@ -226,7 +226,7 @@ int main()
 
 
 
-    cout << "\n" << "REPORD CARD :" << "\n" << "\n"2 ;
+    cout << "\n" << "REPORD CARD :" << "\n" << "\n" ;
 
     //show table 
     cout << "          " << "Name" << "         " << "|" ;
@@ -541,7 +541,7 @@ int main()
 
             }
             cout <<"\n" << "\n" ;
-            cout << "good luck " ;
+
         
         }
 
@@ -701,7 +701,7 @@ int main()
 
             }
             cout <<"\n" << "\n" ;
-            cout << "good luck " ;
+
         
         }
 
